@@ -1,1 +1,1 @@
-Please check model for the code and release for the data used in the experiment. If you have any questions, please contact gwy16333@qq.com
+Please check model for the code and release for the data used in the experiment. 8-head were coded as A_MSCMHMST, and the results of the model used in the comparison experiment with SOTA were the 16-head A_MSCMHMST_16head in the ablation experiment. If you have any questions, please contact gwy16333@qq.com
